@@ -1,0 +1,5 @@
+seed: 42
+symbols: [ "AAPL", "MSFT", "TSLA" ]
+hz: 1.0
+http:
+  addr: ":8080"
